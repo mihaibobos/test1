@@ -2,6 +2,6 @@ Hostname,Application
 w2842,Mobatek.MobaXterm
 *,Microsoft.Office
 w2842,TeamViewer.TeamViewer
-vmdrtest,JetBrains.IntelliJIDEA.Ultimate
-vmdrtest,Microsoft.VisualStudioCode
-vmdrtest,Microsoft.WSL
+vmdrtest2,JetBrains.IntelliJIDEA.Ultimate
+vmdrtest2,Microsoft.VisualStudioCode
+vmdrtest2,Microsoft.WSL
